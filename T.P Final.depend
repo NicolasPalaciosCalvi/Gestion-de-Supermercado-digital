@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1700537415 source:c:\users\npala\desktop\t.p final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"Estructuras Generales.h"
+	"arbol.h"
+	"lista2.h"
+	"arreglo.h"
+	"pila.h"
+	<time.h>
+	<stdbool.h>
+
+1700509518 c:\users\npala\desktop\t.p final\lista2.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700426166 c:\users\npala\desktop\t.p final\fila.h
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700509546 source:c:\users\npala\desktop\t.p final\lista2.c
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700530026 source:c:\users\npala\desktop\t.p final\arbol.c
+	"arbol.h"
+	"Estructuras Generales.h"
+
+1700529687 c:\users\npala\desktop\t.p final\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700426929 source:c:\users\npala\desktop\t.p final\fila.c
+	"fila.h"
+
+1700420379 c:\users\npala\desktop\t.p final\estructuras generales.h
+
+1700513899 source:c:\users\npala\desktop\t.p final\arreglo.c
+	"arreglo.h"
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700513899 c:\users\npala\desktop\t.p final\arreglo.h
+	<string.h>
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700544253 source:d:\utn pr\t.p final\arbol.c
+	"arbol.h"
+	"Estructuras Generales.h"
+
+1700529687 d:\utn pr\t.p final\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700420379 d:\utn pr\t.p final\estructuras generales.h
+
+1700544029 source:d:\utn pr\t.p final\arreglo.c
+	"arreglo.h"
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700544029 d:\utn pr\t.p final\arreglo.h
+	<string.h>
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700549089 d:\utn pr\t.p final\lista2.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700550623 source:d:\utn pr\t.p final\fila.c
+	"fila.h"
+
+1700549204 d:\utn pr\t.p final\fila.h
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700548817 source:d:\utn pr\t.p final\lista2.c
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700549864 source:d:\utn pr\t.p final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"Estructuras Generales.h"
+	"arbol.h"
+	"lista2.h"
+	"arreglo.h"
+	"pila.h"
+	<time.h>
+	<stdbool.h>
+
+1700449862 source:d:\utn pr\t.p final\pila.c
+	"pila.h"
+	"Estructuras Generales.h"
+
+1700449473 d:\utn pr\t.p final\pila.h
+	<stdio.h>
+	<malloc.h>
+	"Estructuras Generales.h"
+
+1700449473 c:\users\npala\desktop\t.p final\pila.h
+	<stdio.h>
+	<malloc.h>
+	"Estructuras Generales.h"
+
+1700449862 source:c:\users\npala\desktop\t.p final\pila.c
+	"pila.h"
+	"Estructuras Generales.h"
+
+1700572136 source:c:\users\usuario\downloads\t.p final\t.p final\arbol.c
+	"arbol.h"
+	"Estructuras Generales.h"
+
+1700570935 c:\users\usuario\downloads\t.p final\t.p final\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700420379 c:\users\usuario\downloads\t.p final\t.p final\estructuras generales.h
+
+1700544029 source:c:\users\usuario\downloads\t.p final\t.p final\arreglo.c
+	"arreglo.h"
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700544029 c:\users\usuario\downloads\t.p final\t.p final\arreglo.h
+	<string.h>
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700549089 c:\users\usuario\downloads\t.p final\t.p final\lista2.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700550623 source:c:\users\usuario\downloads\t.p final\t.p final\fila.c
+	"fila.h"
+
+1700549204 c:\users\usuario\downloads\t.p final\t.p final\fila.h
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700548817 source:c:\users\usuario\downloads\t.p final\t.p final\lista2.c
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700449862 source:c:\users\usuario\downloads\t.p final\t.p final\pila.c
+	"pila.h"
+	"Estructuras Generales.h"
+
+1700449473 c:\users\usuario\downloads\t.p final\t.p final\pila.h
+	<stdio.h>
+	<malloc.h>
+	"Estructuras Generales.h"
+
+1700573437 source:c:\users\usuario\downloads\t.p final\t.p final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"Estructuras Generales.h"
+	"arbol.h"
+	"lista2.h"
+	"arreglo.h"
+	"pila.h"
+	<time.h>
+	<stdbool.h>
+
+1700572138 source:d:\lab 2\finales\proyecto final laboratorio 2\arbol.c
+	"arbol.h"
+	"Estructuras Generales.h"
+
+1700570936 d:\lab 2\finales\proyecto final laboratorio 2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700420380 d:\lab 2\finales\proyecto final laboratorio 2\estructuras generales.h
+
+1700544030 source:d:\lab 2\finales\proyecto final laboratorio 2\arreglo.c
+	"arreglo.h"
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700544030 d:\lab 2\finales\proyecto final laboratorio 2\arreglo.h
+	<string.h>
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700549090 d:\lab 2\finales\proyecto final laboratorio 2\lista2.h
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras Generales.h"
+
+1700550624 source:d:\lab 2\finales\proyecto final laboratorio 2\fila.c
+	"fila.h"
+
+1700549206 d:\lab 2\finales\proyecto final laboratorio 2\fila.h
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700548818 source:d:\lab 2\finales\proyecto final laboratorio 2\lista2.c
+	"lista2.h"
+	"Estructuras Generales.h"
+
+1700573438 source:d:\lab 2\finales\proyecto final laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"Estructuras Generales.h"
+	"arbol.h"
+	"lista2.h"
+	"arreglo.h"
+	"pila.h"
+	<time.h>
+	<stdbool.h>
+
+1700449474 d:\lab 2\finales\proyecto final laboratorio 2\pila.h
+	<stdio.h>
+	<malloc.h>
+	"Estructuras Generales.h"
+
+1700449864 source:d:\lab 2\finales\proyecto final laboratorio 2\pila.c
+	"pila.h"
+	"Estructuras Generales.h"
+
